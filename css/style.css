@@ -90,6 +90,7 @@ body {
 
 .btn button:hover {
     transform: scale(0.95);
+    background: rgb(58, 235, 52);
 }
 
 .container .icons {
