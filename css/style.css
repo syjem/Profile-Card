@@ -41,6 +41,10 @@ body {
     transition: all 0.3s ease;
 }
 
+.container .wrapper img:hover {
+    transform: scale(0.95);
+}
+
 .container:hover .wrapper img.active {
     height: 470px;
     width: 350px;
