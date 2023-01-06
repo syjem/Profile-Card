@@ -139,5 +139,6 @@ body {
 
 .container .icons li a:hover{
     transform: scale(0.9);
-    background: rgba(205, 206, 203, 0.911);
+    background-color: rgb(128, 127, 130);
+    color: rgb(12, 5, 38);
 }
